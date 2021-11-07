@@ -38,5 +38,5 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
 <h3>Deploy to Heroku </h3>
 <div>
-    <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+    <a href="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GLITTERneey/sahabatsolid)"></a>
 </div>
